@@ -11,7 +11,7 @@ window.onload = function() {
     })
 */
 
-function clearNums() {
+function newFunction() {
     document.getElementById('input').value='';
 }
 
