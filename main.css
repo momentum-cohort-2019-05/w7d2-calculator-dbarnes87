@@ -1,0 +1,245 @@
+/*
+button, input {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+.calculator {
+    background-color: rgb(61, 168, 61);
+    font-size: 30px;
+    border: 5px solid black;
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-top: 200px;
+    width: 700px;
+    /* height: 500px;
+    
+}
+
+.row-one {
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+
+.row-two {
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+
+
+}
+
+.row-three {
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+
+
+}
+
+.row-four {
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+
+}
+
+.row-five {
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+
+}
+
+.clear {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.seven {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.eight {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.nine {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.divide {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.four {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.five {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.six {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.multiply {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+
+}
+
+.one {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.two {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.three {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.minus {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.zero {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.decimal {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.equals {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.plus {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+input {
+    border: 1px solid white;
+    padding-right: 7px;
+    padding-left: 7px;
+    width: 425px;
+}     */
+
+button, input {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+.calculator {
+    background-color: rgb(61, 168, 61);
+    font-size: 30px;
+    border: 5px solid black;
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-top: 200px;
+    width: 700px;
+    /* height: 500px;*/ 
+}
+
+.row-one {
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+
+.row-two {
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+
+
+}
+
+.row-three {
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+
+
+}
+
+.row-four {
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+
+}
+
+.row-five {
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+
+}
